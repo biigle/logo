@@ -6,6 +6,8 @@
 
 - `biigle-logo`: The full logo.
 
+- `biigle-logo-inverse`: The full logo for dark backgrounds.
+
 - `biigle-jelly`: Only the jelly fish.
 
 The [`biigle-logo.svg`](biigle-logo.svg) file contains all design elements, including the plain jelly fish and the color wheel mesh gradient.
