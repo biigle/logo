@@ -1,4 +1,4 @@
-# BIIGLE Logo
+# BIIGLE Logo!
 
 ![BIIGLE Logo](biigle-logo.png?raw=true)
 
